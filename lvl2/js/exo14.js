@@ -1,5 +1,5 @@
 //Code à faire ici 
-helloWorld="Hello World from a function !"
-
-
-console.log(helloWorld);
+function HelloWorld() {
+    console.log('Hello World from a function !');
+}
+HelloWorld();
